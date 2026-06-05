@@ -1,0 +1,10 @@
+{
+  "name": "lab",
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.15.0"
+  }
+}
